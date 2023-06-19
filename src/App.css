@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+}
+
+.btn_gruop button {
+  cursor: pointer;
+  padding: 10px 13px 6px 12px;
+  font-size: large;
+  margin: 1rem 5px;
+  background-color: #ecf0f1;
+  border: 1px solid #ecf0f1;
+  border-radius: 5px;
+}
+
+.btn_gruop button:hover {
+  background-color: #3498db;
+  border: 1px solid #3498db;
+}
+
+
+
+.videoST video {
+  max-width: 512px;
+  width: 100%;
+  border-radius: 5px;
+}
+
+.time_info .bar {
+  max-width: 512px;
+  width: 100%;
+}
