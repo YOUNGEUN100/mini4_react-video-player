@@ -6,4 +6,4 @@
 ## 홈페이지
 - https://lucent-monstera-7830f2.netlify.app/
 ## 캡처사진
-<Img src="https://github.com/YOUNGEUN100/react-video-player/assets/121986519/72f744a3-f15b-47e2-b29a-96696495f15e" />
+<Img width="360px" src="https://github.com/YOUNGEUN100/react-video-player/assets/121986519/72f744a3-f15b-47e2-b29a-96696495f15e" />
